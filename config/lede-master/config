@@ -408,7 +408,7 @@ CONFIG_PKG_RELRO_FULL=y
 # CONFIG_SELINUX is not set
 CONFIG_SECCOMP=y
 # end of Global build settings
-
+# OK
 # CONFIG_DEVEL is not set
 # CONFIG_BROKEN is not set
 CONFIG_BINARY_FOLDER=""
